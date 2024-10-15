@@ -17,4 +17,4 @@ Homework-7
 
 [Xuất sắc]9. Luyện tập với nhóm lệnh sound : https://scratch.mit.edu/projects/1081492980/
 
-[Xuất sắc]10. Luyện tập với nhóm lệnh sound :
+[Xuất sắc]10. Luyện tập với nhóm lệnh sound : https://scratch.mit.edu/projects/1081506209/
