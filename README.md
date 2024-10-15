@@ -3,7 +3,7 @@ Homework-7
 
 [Cơ bản]1. Làm quen với nhóm lệnh sound : https://scratch.mit.edu/projects/1081385540
 
-https://scratch.mit.edu/projects/1081396173
+[Cơ bản]2. Làm quen với nhóm lệnh cảm biến : https://scratch.mit.edu/projects/1081396173
 
 [Cơ bản]3. Làm quen với nhóm lệnh sound : https://scratch.mit.edu/projects/1081409147
 
